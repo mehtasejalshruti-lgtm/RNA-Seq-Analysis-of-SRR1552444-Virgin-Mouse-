@@ -25,6 +25,16 @@ eatureCounts is used to count the number of reads mapped to genomic features (ge
 we can use either DEseq2 or edgeR for the next step , but we use DEseq2 as the sample size is small
 * **DESeq2:** simpler and more stable, best when you have **few samples**.
 * **edgeR:** more flexible and powerful, works better when you have **more samples**
+<img width="1920" height="1080" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/9ab1d4ef-440b-415b-8920-f02fe11d8162" />
+<img width="1920" height="1080" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/325b8138-3d86-4c98-b21b-81a52671cdb0" />
+
+# Heatmap2 
+* Visualize expression patterns of differentially expressed genes (DEGs)
+* Check if DESeq2 results make biological sense
+<img width="1920" height="1080" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/9672dbb5-ec1c-453a-8378-0bd3aab2ba8a" />
+
+
+
   
 
 
