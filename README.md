@@ -1,4 +1,4 @@
-# Folder-3
+# Folder-3 RNA-Seq Analysis of SRR1552444 (Virgin Mouse)
 # Fastqc on SRR1552444 ( VIRGIN MOUSE )
 
 FastQC is used to **check the quality of raw sequencing data** by analyzing read quality scores, GC content, sequence length, and detecting issues like adapters or contamination 
